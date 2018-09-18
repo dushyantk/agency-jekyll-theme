@@ -9,9 +9,9 @@ description: "I am a skilled and versatile VFX/Animation Pipeline TD with decade
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Shyal Bearsdley
   pic: 1
-  position: Lead Designer
+  position: Senior Software Engineer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Michael D'Sa
   pic: 2
-  position: Lead Marketer
+  position: VFX Producer
   social:
     - title: twitter
       url: #
@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Kevin Sallee
   pic: 3
   position: Lead Developer
   social:
