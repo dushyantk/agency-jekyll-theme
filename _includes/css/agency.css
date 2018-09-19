@@ -45,7 +45,7 @@ a:active,
 a.active {
     color: #{{ site.data.template.color.secondary }};
 }
-
+#E41B1B
 h1,
 h2,
 h3,
