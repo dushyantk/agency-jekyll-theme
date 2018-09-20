@@ -14,30 +14,28 @@ people:
   position: Senior Software Engineer
   social:
     - title: linkedin
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.linkedin.com/in/shyal
+    - title: github
+      url: https://github.com/shyal
 
 - name: Michael D'Sa
   pic: 2
   position: VFX Producer
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/michael-d-sa-7b120111
 
 - name: Kevin Sallee
   pic: 3
-  position: Lead Developer
+  position: Software Engineer
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/kevinsallee/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/dushyantkashyap/
-  - title: facebook
-    url:
   - title: stack-overflow
     url: https://stackexchange.com/users/7072964/dushyant
   - title: twitter 
