@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 company: Double Negative
 category: VFX Pipeline Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This was one of my first shows at Double Negative, and I enjoyed it thoroughly learning the way Dneg works.
 
 ---
